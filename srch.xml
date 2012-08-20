@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:db="http://www.douban.com/xmlns/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/">
+	<title>搜索 windows 的结果</title>
+	<opensearch:startIndex>1</opensearch:startIndex>
+	<opensearch:totalResults>3824</opensearch:totalResults>
+	<entry>
+		<id>http://api.douban.com/book/subject/2124938</id>
+		<title>Games for Windows: The Official Magazine</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<link href="http://api.douban.com/book/subject/2124938" rel="self"/>
+		<link href="http://book.douban.com/subject/2124938/" rel="alternate"/>
+		<link href="http://img3.douban.com/spic/s3017307.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/2124938/" rel="mobile"/>
+		<gd:rating average="0" max="10" min="0" numRaters="1"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/3235659</id>
+		<title>Windows核心编程(第5版)</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>Jeffrey Richter</name>
+		</author>
+		<author>
+			<name>Christophe Nasarre</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/3235659" rel="self"/>
+		<link href="http://book.douban.com/subject/3235659/" rel="alternate"/>
+		<link href="http://img3.douban.com/spic/s3289246.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/3235659/" rel="mobile"/>
+		<db:attribute name="isbn10">7302184003</db:attribute>
+		<db:attribute name="isbn13">9787302184003</db:attribute>
+		<db:attribute name="translator">葛子昂</db:attribute>
+		<db:attribute name="translator">周靖</db:attribute>
+		<db:attribute name="translator">廖敏</db:attribute>
+		<db:attribute name="author">Jeffrey Richter</db:attribute>
+		<db:attribute name="author">Christophe Nasarre</db:attribute>
+		<db:attribute name="price">99.00元</db:attribute>
+		<db:attribute name="publisher">清华大学出版社</db:attribute>
+		<db:attribute name="pubdate">2008年9月</db:attribute>
+		<gd:rating average="9.2" max="10" min="0" numRaters="250"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/2031396</id>
+		<title>深入解析Windows操作系统</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>（美）罗斯（Russinovich,M.E.）</name>
+		</author>
+		<author>
+			<name>（美）所罗门（Solomon,D.A.）</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/2031396" rel="self"/>
+		<link href="http://book.douban.com/subject/2031396/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s4047771.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/2031396/" rel="mobile"/>
+		<db:attribute name="isbn10">7121039699</db:attribute>
+		<db:attribute name="isbn13">9787121039690</db:attribute>
+		<db:attribute name="translator">潘爱民</db:attribute>
+		<db:attribute name="author">（美）罗斯（Russinovich,M.E.）</db:attribute>
+		<db:attribute name="author">（美）所罗门（Solomon,D.A.）</db:attribute>
+		<db:attribute name="price">99.00元</db:attribute>
+		<db:attribute name="publisher">电子工业出版社</db:attribute>
+		<db:attribute name="pubdate">2007-4</db:attribute>
+		<gd:rating average="8.8" max="10" min="0" numRaters="206"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/1103161</id>
+		<title>Windows API函数参考手册</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>本书编写组</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/1103161" rel="self"/>
+		<link href="http://book.douban.com/subject/1103161/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s9778783.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/1103161/" rel="mobile"/>
+		<db:attribute name="isbn10">7115106126</db:attribute>
+		<db:attribute name="isbn13">9787115106124</db:attribute>
+		<db:attribute name="author">本书编写组</db:attribute>
+		<db:attribute name="price">80.0</db:attribute>
+		<db:attribute name="publisher">人民邮电出版社</db:attribute>
+		<db:attribute name="pubdate">2002-10</db:attribute>
+		<gd:rating average="0" max="10" min="0" numRaters="5"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/1088168</id>
+		<title>Windows 程序设计：第5版</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>CharlesPetzold</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/1088168" rel="self"/>
+		<link href="http://book.douban.com/subject/1088168/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s1324850.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/1088168/" rel="mobile"/>
+		<db:attribute name="isbn10">730104187X</db:attribute>
+		<db:attribute name="isbn13">9787301041871</db:attribute>
+		<db:attribute name="translator">北京博彦科技发展有限公司</db:attribute>
+		<db:attribute name="author">CharlesPetzold</db:attribute>
+		<db:attribute name="price">160.00</db:attribute>
+		<db:attribute name="publisher">北京大学出版社</db:attribute>
+		<db:attribute name="pubdate">2003-11-1</db:attribute>
+		<gd:rating average="8.8" max="10" min="0" numRaters="478"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/5273955</id>
+		<title>Windows程序设计</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>佩措尔德</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/5273955" rel="self"/>
+		<link href="http://book.douban.com/subject/5273955/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s6219932.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/5273955/" rel="mobile"/>
+		<db:attribute name="isbn10">730222739X</db:attribute>
+		<db:attribute name="isbn13">9787302227397</db:attribute>
+		<db:attribute name="author">佩措尔德</db:attribute>
+		<db:attribute name="price">129.00元</db:attribute>
+		<db:attribute name="publisher">北京大学出版社</db:attribute>
+		<db:attribute name="pubdate">2010-9</db:attribute>
+		<gd:rating average="9.0" max="10" min="0" numRaters="70"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/4719159</id>
+		<title>Windows内核原理与实现</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>潘爱民</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/4719159" rel="self"/>
+		<link href="http://book.douban.com/subject/4719159/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s4339253.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/4719159/" rel="mobile"/>
+		<db:attribute name="isbn10">7121105284</db:attribute>
+		<db:attribute name="isbn13">9787121105289</db:attribute>
+		<db:attribute name="author">潘爱民</db:attribute>
+		<db:attribute name="price">99.00元</db:attribute>
+		<db:attribute name="publisher">电子工业出版社</db:attribute>
+		<db:attribute name="pubdate">2010年4月</db:attribute>
+		<gd:rating average="8.5" max="10" min="0" numRaters="80"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/1090602</id>
+		<title>Windows操作系统原理</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>尤晋元</name>
+		</author>
+		<author>
+			<name>史美林</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/1090602" rel="self"/>
+		<link href="http://book.douban.com/subject/1090602/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s1333863.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/1090602/" rel="mobile"/>
+		<db:attribute name="isbn10">7111092112</db:attribute>
+		<db:attribute name="isbn13">9787111092117</db:attribute>
+		<db:attribute name="author">尤晋元</db:attribute>
+		<db:attribute name="author">史美林</db:attribute>
+		<db:attribute name="price">39.00</db:attribute>
+		<db:attribute name="publisher">机械工业出版社</db:attribute>
+		<db:attribute name="pubdate">2001-8-1</db:attribute>
+		<gd:rating average="6.1" max="10" min="0" numRaters="15"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/2160753</id>
+		<title>Windows编程启示录</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>Raymond Chen</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/2160753" rel="self"/>
+		<link href="http://book.douban.com/subject/2160753/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s2902742.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/2160753/" rel="mobile"/>
+		<db:attribute name="isbn10">7111219198</db:attribute>
+		<db:attribute name="isbn13">9787111219194</db:attribute>
+		<db:attribute name="translator">聂雪军</db:attribute>
+		<db:attribute name="author">Raymond Chen</db:attribute>
+		<db:attribute name="price">49.00元</db:attribute>
+		<db:attribute name="publisher">机械工业出版社</db:attribute>
+		<db:attribute name="pubdate">2007</db:attribute>
+		<gd:rating average="7.9" max="10" min="0" numRaters="69"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/4137895</id>
+		<title>精解Windows 7</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>王琛</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/4137895" rel="self"/>
+		<link href="http://book.douban.com/subject/4137895/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s6096682.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/4137895/" rel="mobile"/>
+		<db:attribute name="isbn10">7115216932</db:attribute>
+		<db:attribute name="isbn13">9787115216939</db:attribute>
+		<db:attribute name="author">王琛</db:attribute>
+		<db:attribute name="price">49.00元</db:attribute>
+		<db:attribute name="pubdate">2009-11</db:attribute>
+		<gd:rating average="5.9" max="10" min="0" numRaters="16"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/2382149</id>
+		<title>Windows程序设计</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>王艳平，张铮编著</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/2382149" rel="self"/>
+		<link href="http://book.douban.com/subject/2382149/" rel="alternate"/>
+		<link href="http://img5.douban.com/spic/s5855749.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/2382149/" rel="mobile"/>
+		<db:attribute name="isbn10">7115172323</db:attribute>
+		<db:attribute name="isbn13">9787115172327</db:attribute>
+		<db:attribute name="author">王艳平，张铮编著</db:attribute>
+		<db:attribute name="price">59.00元</db:attribute>
+		<db:attribute name="publisher">人民邮电</db:attribute>
+		<db:attribute name="pubdate">2008-2</db:attribute>
+		<gd:rating average="7.4" max="10" min="0" numRaters="25"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/3781532</id>
+		<title>Windows高级调试</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>Mario Hewardt</name>
+		</author>
+		<author>
+			<name>Daniel Pravat</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/3781532" rel="self"/>
+		<link href="http://book.douban.com/subject/3781532/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s3824924.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/3781532/" rel="mobile"/>
+		<db:attribute name="isbn10">7111266390</db:attribute>
+		<db:attribute name="isbn13">9787111266396</db:attribute>
+		<db:attribute name="translator">聂雪军</db:attribute>
+		<db:attribute name="author">Mario Hewardt</db:attribute>
+		<db:attribute name="author">Daniel Pravat</db:attribute>
+		<db:attribute name="price">79.00元</db:attribute>
+		<db:attribute name="publisher">机械工业出版社</db:attribute>
+		<db:attribute name="pubdate">2009</db:attribute>
+		<gd:rating average="8.5" max="10" min="0" numRaters="35"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/3788437</id>
+		<title>琢石成器</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>罗云彬</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/3788437" rel="self"/>
+		<link href="http://book.douban.com/subject/3788437/" rel="alternate"/>
+		<link href="http://img3.douban.com/spic/s3831356.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/3788437/" rel="mobile"/>
+		<db:attribute name="isbn10">7121086638</db:attribute>
+		<db:attribute name="isbn13">9787121086632</db:attribute>
+		<db:attribute name="author">罗云彬</db:attribute>
+		<db:attribute name="price">89.00元</db:attribute>
+		<db:attribute name="publisher">电子工业出版社</db:attribute>
+		<db:attribute name="pubdate">2009年6月</db:attribute>
+		<gd:rating average="9.5" max="10" min="0" numRaters="54"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/2567634</id>
+		<title>Windows® Internals</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>Mark E. Russinovich</name>
+		</author>
+		<author>
+			<name>David A. Solomon</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/2567634" rel="self"/>
+		<link href="http://book.douban.com/subject/2567634/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s4228462.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/2567634/" rel="mobile"/>
+		<db:attribute name="isbn10">0735625301</db:attribute>
+		<db:attribute name="isbn13">9780735625303</db:attribute>
+		<db:attribute name="author">Mark E. Russinovich</db:attribute>
+		<db:attribute name="author">David A. Solomon</db:attribute>
+		<db:attribute name="price">$69.99</db:attribute>
+		<db:attribute name="publisher">Microsoft Press</db:attribute>
+		<db:attribute name="pubdate">2008</db:attribute>
+		<gd:rating average="9.4" max="10" min="0" numRaters="30"/>
+	</entry>
+	<entry>
+		<id>http://api.douban.com/book/subject/1088045</id>
+		<title>Windows核心编程</title>
+		<category scheme="http://www.douban.com/2007#kind" term="http://www.douban.com/2007#book"/>
+		<author>
+			<name>Jeffrey Richter</name>
+		</author>
+		<link href="http://api.douban.com/book/subject/1088045" rel="self"/>
+		<link href="http://book.douban.com/subject/1088045/" rel="alternate"/>
+		<link href="http://img1.douban.com/spic/s1408560.jpg" rel="image"/>
+		<link href="http://m.douban.com/book/subject/1088045/" rel="mobile"/>
+		<db:attribute name="isbn10">7111079450</db:attribute>
+		<db:attribute name="isbn13">9787111079453</db:attribute>
+		<db:attribute name="author">Jeffrey Richter</db:attribute>
+		<db:attribute name="price">86.00元</db:attribute>
+		<db:attribute name="publisher">机械工业出版社</db:attribute>
+		<db:attribute name="translator">王建华</db:attribute>
+		<db:attribute name="pubdate">2000-5-1</db:attribute>
+		<gd:rating average="8.7" max="10" min="0" numRaters="398"/>
+	</entry>
+	<opensearch:itemsPerPage>15</opensearch:itemsPerPage>
+</feed>
