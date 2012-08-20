@@ -1,0 +1,47 @@
+﻿<Window x:Class="DoubanPrj.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel HorizontalAlignment="Left" Orientation="Horizontal" Margin="0,5">
+            <TextBlock Text="搜索内容：" Margin="10,0,10,0"></TextBlock>
+            <TextBox Width="228" Name="srchInput" Margin="10,0,10,0"/>
+            <Button Content="搜索" Click="Button_Click"  Margin="10,0,10,0"/>
+        </StackPanel>
+            
+            
+        <ListBox Grid.Row="1" Name="listBox" >
+            <!--ItemsSource="{Binding Source={StaticResource colorPresenter},
+                                                        Path=Colors}"-->
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="200"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock Grid.Column="0"
+                                Text="{Binding Title}"/>
+
+                        <!--<TextBlock Grid.Column="1" DataContext="{Binding Path=Link}"
+                                Text="{Binding [image]}"/>-->
+
+                        <Image Grid.Column="1"
+                                Source="{Binding Link[image]}"/>
+
+
+                        <TextBlock Grid.Column="2"
+                                Text="{Binding Author[0]}"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>
